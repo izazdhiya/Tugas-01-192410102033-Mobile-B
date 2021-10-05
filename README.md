@@ -1,6 +1,6 @@
 # list Contact
 
-A new Flutter project.
+Tugas Mata Kuliah Pemrograman Berbasis Mobile
 
 ## Getting Started
 
